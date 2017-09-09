@@ -1,0 +1,12 @@
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\VisualizationPackage.exe.config
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\VisualizationPackage.exe
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\VisualizationPackage.pdb
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\ColorMapping.dll
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\MeshLoader.dll
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\bin\Debug\MeshLoader.pdb
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\Visualization Package.csprojResolveAssemblyReference.cache
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\VisualizationPackage.Form1.resources
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\VisualizationPackage.Properties.Resources.resources
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\Visualization Package.csproj.GenerateResource.Cache
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\VisualizationPackage.exe
+C:\Users\nadaa\Desktop\Visualization Package\Visualization Package\obj\Debug\VisualizationPackage.pdb

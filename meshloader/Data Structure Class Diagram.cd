@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Visualization.Vertex">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAAAAAAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Visualization.Zone">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Faces" Type="Visualization.Face" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="2.654" />
+        <Point X="3.316" Y="2.654" />
+        <Point X="3.316" Y="3.214" />
+        <Point X="3" Y="3.214" />
+        <Point X="3" Y="3.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Elements" Type="Visualization.Element" ManuallyRouted="true">
+      <Path>
+        <Point X="4.5" Y="1.848" />
+        <Point X="3.204" Y="1.848" />
+        <Point X="3.204" Y="3" />
+        <Point X="1.25" Y="3" />
+        <Point X="1.25" Y="3.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEEAhYAAEAAAAAAAAQAQAAEQAAAAAAIAEAAAQAAAAAA=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ElementType" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Vertices" />
+      <Field Name="Edges" />
+      <Field Name="Faces" />
+      <Field Name="Elements" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Visualization.Mesh">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAMQgEAAAAAMAAAAAAAAACAAAAAAAAAAIAgAAEAAQ=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Edge">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Face">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAAAAAAAQAQAQAAAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Element">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAggAAACAAQgAACASQAQAAgAAAAAABAEAABI=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Point3">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABgAEAAEgAAQAAAAAABACAABgAQEAgjA=</HashCode>
+      <FileName>Point3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Visualization.ElementType" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACCAAAAAAAAABAAAAAAAAAAAAAAACAAAAACABAAA=</HashCode>
+      <FileName>_Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.4" />
+</ClassDiagram>

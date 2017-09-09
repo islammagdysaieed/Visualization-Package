@@ -1,0 +1,9 @@
+obj\Debug\Samples.exe
+obj\Debug\Samples.pdb
+bin\Debug\Samples.exe
+bin\Debug\Samples.pdb
+bin\Debug\MeshLoader.dll
+bin\Debug\Tao.OpenGl.dll
+bin\Debug\MeshLoader.pdb
+bin\Debug\Tao.OpenGl.xml
+obj\Debug\ResolveAssemblyReference.cache

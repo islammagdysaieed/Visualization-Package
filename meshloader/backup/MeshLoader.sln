@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshLoader", "MeshLoader.csproj", "{34DB1CE6-7CBF-40C1-B985-33F1465E73C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples", "Samples\Samples.csproj", "{076A3F2C-B5CC-4B53-8941-8EC0AED6D4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DB1CE6-7CBF-40C1-B985-33F1465E73C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DB1CE6-7CBF-40C1-B985-33F1465E73C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DB1CE6-7CBF-40C1-B985-33F1465E73C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DB1CE6-7CBF-40C1-B985-33F1465E73C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076A3F2C-B5CC-4B53-8941-8EC0AED6D4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076A3F2C-B5CC-4B53-8941-8EC0AED6D4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076A3F2C-B5CC-4B53-8941-8EC0AED6D4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076A3F2C-B5CC-4B53-8941-8EC0AED6D4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

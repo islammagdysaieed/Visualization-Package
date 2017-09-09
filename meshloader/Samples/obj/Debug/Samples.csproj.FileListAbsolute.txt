@@ -1,0 +1,20 @@
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\obj\Debug\Samples.exe
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\obj\Debug\Samples.pdb
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\Samples.exe
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\Samples.pdb
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\MeshLoader.dll
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\Tao.OpenGl.dll
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\MeshLoader.pdb
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\bin\Debug\Tao.OpenGl.xml
+D:\Lab 4 Mesh Loader\October 2008 Mesh Loader\MeshLoader\Samples\obj\Debug\ResolveAssemblyReference.cache
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\obj\Debug\Samples.exe
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\obj\Debug\Samples.pdb
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\Samples.exe
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\Samples.pdb
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\MeshLoader.dll
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\Tao.OpenGl.dll
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\MeshLoader.pdb
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\bin\Debug\Tao.OpenGl.xml
+D:\vis\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\First Term\Visualization\Labs\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\obj\Debug\Samples.exe
+D:\Academy\SC\Current Year\First Term\Visualization\Labs\Lab 2\Lab 2\Lab2 Materials\MeshLoader\Samples\obj\Debug\Samples.pdb
